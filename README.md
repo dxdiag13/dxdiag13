@@ -9,7 +9,7 @@
 </div>
 <h3My accounts;</h3>
 <p align="center">
-   <a href="https://discord.com/users975499624049700965/" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
+   <a href="https://discord.com/users/975499624049700965" target"blank_"><img src="https://img.shields.io/badge/discord%20-7289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
     <a href="https://github.com/TheHanki" target"blank_"><img src="https://img.shields.io/badge/GitHub%20-191717.svg?&style=for-the-badge&logo=github&logoColor=white">
 </a>
 
@@ -29,33 +29,22 @@
 </p>
 
 <!--
-### Project Hightlights ⭐
-
-- ![Sigma Linux](link)
-- ![libmem](link)
-- ![AssaultCube Multihack](link)
-- ![Half-Life Source Multihack](link)
-- ![Half-Life 2 Multihack](link)
-
-
-
-<!--
 ### Hi there 👋
 
-- I am jorrible
+- I am Jorrible
 
 
 ## Github Stats
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=dxdiag13&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=TheHanki&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dxdiag213&hide_border=true&layout=compact&hide=rescript" align="left" style="width: 100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheHanki&hide_border=true&layout=compact&hide=rescript" align="left" style="width: 100%"/>
 
 </td></tr></table>
 
-![](https://komarev.com/ghpvc/?username=dxdiag13&style=plastic)
+![](https://komarev.com/ghpvc/?username=TheHanki&style=plastic)
 -->
