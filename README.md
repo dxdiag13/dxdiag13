@@ -2,7 +2,7 @@
 
 - Hello World!
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1098733763128733746)](https://discord.com/users/975499624049700965)
+[![Discord Presence](https://lanyard.cnrad.dev/api/975499624049700965)](https://discord.com/users/975499624049700965)
 
 <img src="https://komarev.com/ghpvc/?username=juywvm&label=Numbers%20of%20visitors&color=0b04c7" alt="dxdiag13" />
 
